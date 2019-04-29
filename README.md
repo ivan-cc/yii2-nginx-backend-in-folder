@@ -1,2 +1,2 @@
 # yii2-nginx-backend-in-folder
-Размещаем backend в папке основного сайта
+Пример конфигурации nginx, чтобы backend (например из yii2-advanced) заработал в папке сайта. Типа site.com/backend/ или site.com/admin/ или что-то подобное.
